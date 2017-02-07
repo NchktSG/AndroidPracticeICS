@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterActCom</string>
+
+    <string name="edtText">Enter Text</string>
+
+    <string name="next">Next</string>
+</resources>
